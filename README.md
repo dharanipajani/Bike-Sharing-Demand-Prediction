@@ -90,4 +90,4 @@ Deploy the model as a web application
 This project showcases how classical regression techniques combined with effective feature engineering and evaluation metrics can solve a real-world prediction problem. It highlights the importance of understanding data patterns before applying machine learning models.
 
 
-This project showcases how classical regression techniques combined with effective feature engineering and evaluation metrics can solve a real-world prediction problem. It highlights the importance of understanding data patterns before applying machine learning models.
+
